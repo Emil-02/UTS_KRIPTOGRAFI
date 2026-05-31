@@ -1,0 +1,4 @@
+Nama    : Emil Rahmat
+Nim     : 105841119124
+Kelas   : 4F
+Prodi   : Informatika
